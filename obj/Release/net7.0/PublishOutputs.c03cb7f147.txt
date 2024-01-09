@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\pockencrypt.exe
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\appsettings.Development.json
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\appsettings.json
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\pockencrypt.dll
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\pockencrypt.deps.json
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\pockencrypt.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\pockencrypt.pdb
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\Microsoft.OpenApi.dll
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\Newtonsoft.Json.dll
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pichau\OneDrive\Documentos\estudos\pockencrypt\Release\System.Security.Cryptography.ProtectedData.dll
